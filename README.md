@@ -15,8 +15,8 @@ My clinical experience has shown me first hand how critical and vulnerable healt
 
 | Skill | Associated Project |
 |---|---|
-| Cybersecurity Risk Assessment (NIST SP 800-30 Rev 1) | <a href="https://github.com/YOUR-USERNAME/healthcare-grc-portfolio">Healthcare GRC Portfolio</a> |
-| Cybersecurity Maturity Assessment (NIST CSF 2.0) | <a href="https://github.com/YOUR-USERNAME/healthcare-grc-portfolio">Healthcare GRC Portfolio</a> |
+| Cybersecurity Risk Assessment (NIST SP 800-30 Rev 1) | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects">GRC Portfolio Projects</a> |
+| Cybersecurity Maturity Assessment (NIST CSF 2.0) | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects">GRC Portfolio Projects</a> |
 
 ## Frameworks & Standards
  
@@ -35,7 +35,7 @@ My clinical experience has shown me first hand how critical and vulnerable healt
 <img src="https://img.shields.io/badge/-Registered%20Pharmacist%20(AHPRA)-00843D?&style=for-the-badge&logoColor=white" />
 </div>
 
-## [Healthcare GRC Portfolio](https://github.com/YOUR-USERNAME/healthcare-grc-portfolio)
+## [GRC Portfolio Projects](https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects)
 A combined GRC portfolio applied to fictionalised healthcare environments, containing two assessments:
  
 - **Cybersecurity Risk Assessment** — conducted using **NIST SP 800-30 Rev 1** for a fictionalised community pharmacy. Produces a risk register with threats, vulnerabilities, likelihood and impact ratings, and controls identified in the Cybersecurity Maturity Assessment. 
