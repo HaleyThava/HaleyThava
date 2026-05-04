@@ -1,4 +1,4 @@
-## Hi there 👋 I am Haley
+## Hi there 👋 I am Haley Thava
 <a href="https://au.linkedin.com/in/haley-thava-03377a325"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
