@@ -31,7 +31,7 @@ My clinical experience has shown me first hand how critical and vulnerable healt
  
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ICT50220%20Diploma%20(Cybersecurity%20%26%20Business%20Analysis)-0078D4?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ICT50220%20Diploma%20(Cybersecurity%20%26%20Business%20Analysis)%20--%20In%20Progress-0078D4?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Registered%20Pharmacist%20(AHPRA)-00843D?&style=for-the-badge&logoColor=white" />
 </div>
 
