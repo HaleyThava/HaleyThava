@@ -3,13 +3,13 @@
 
 ## About Me
 
-I'm a registered pharmacist transitioning into healthcare cybersecurity governance, risk, and compliance (GRC). My clinical background which includes hospital and community experience, gives me direct domain knowledge of healthcare workflows, medicines regulation, and health information systems that most cybersecurity candidates simply don't have.
+I’m a registered pharmacist moving into cyber security governance, risk and compliance (GRC). My background is in highly regulated, privacy-sensitive environments where risk assessment, the legal and ethical judgment that regulated practice demands, and careful handling of sensitive data are part of daily work. These are the same foundations that underpin information security GRC. Healthcare adds a layer of domain depth: direct working knowledge of clinical workflows, medicines regulation, navigating legal and ethical dilemmas and health information systems that few cyber security candidates bring.
 
-I'm building a focused GRC portfolio applied specifically to healthcare contexts, grounded in NIST, ISO 27001, the ASD Essential Eight, and Australian privacy legislation.
+This portfolio applies GRC methodology in a healthcare context as a fictional worked example. The work is grounded in NIST (SP 800-30 and CSF 2.0); my broader study covers ISO 27001, the ASD Essential Eight, and Australian privacy legislation.
 
 ## Objective
 
-My clinical experience has shown me first hand how critical and vulnerable health information systems are. I'm now channelling that insight into cybersecurity, with a focus on **healthcare GRC**: risk assessment, privacy compliance, and governance frameworks in health settings. My goal is to work as a Healthcare GRC Analyst or Health IT Security Analyst, helping health organisations manage risk in a way that is grounded in clinical reality, not just technical theory.
+I'm channeling hands-on experience of how critical and exposed regulated information systems are into GRC: risk assessment, privacy compliance, and governance grounded in operational reality, not technical theory alone. My goal is a GRC or information security risk role, with healthcare GRC as a natural specialisation given my background.
 
 ## Skills
 
