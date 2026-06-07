@@ -17,7 +17,7 @@ I'm channeling hands-on experience of how critical and exposed regulated informa
 |---|---|
 | Cybersecurity Risk Assessment (NIST SP 800-30 Rev 1) | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity%20Maturity%20and%20Risk%20Assessment%20Portfolio%20Project.pdf">Cybersecurity Maturity and Risk Assessment Portfolio Project</a> |
 | Cybersecurity Maturity Assessment (NIST CSF 2.0) | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity%20Maturity%20and%20Risk%20Assessment%20Portfolio%20Project.pdf">Cybersecurity Maturity and Risk Assessment Portfolio Project</a> |
-| ISO/IEC 27001:2022 Control Mapping and Statement of Applicability | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cyber_Pharmacy_ISO_IEC_27001_Control_Mapping_%26_SoA.pdf">Cybersecurity ISO/IEC 27001:2022 Control Mapping and Statement of Applicability</a> |
+| ISO/IEC 27001:2022 Control Mapping and Statement of Applicability | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity_ISO_IEC_27001_Control_Mapping_%26_SoA.pdf">Cybersecurity ISO/IEC 27001:2022 Control Mapping and Statement of Applicability</a> |
 
 ## Frameworks & Standards
  
