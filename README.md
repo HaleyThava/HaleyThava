@@ -15,8 +15,9 @@ I'm channeling hands-on experience of how critical and exposed regulated informa
 
 | Skill | Associated Project |
 |---|---|
-| Cybersecurity Risk Assessment (NIST SP 800-30 Rev 1) | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects">GRC Portfolio Projects</a> |
-| Cybersecurity Maturity Assessment (NIST CSF 2.0) | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects">GRC Portfolio Projects</a> |
+| Cybersecurity Risk Assessment (NIST SP 800-30 Rev 1) | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity%20Maturity%20and%20Risk%20Assessment%20Portfolio%20Project.pdf">Cybersecurity Maturity and Risk Assessment Portfolio Project</a> |
+| Cybersecurity Maturity Assessment (NIST CSF 2.0) | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity%20Maturity%20and%20Risk%20Assessment%20Portfolio%20Project.pdf">Cybersecurity Maturity and Risk Assessment Portfolio Project</a> |
+| ISO/IEC 27001:2022 Control Mapping and Statement of Applicability | <a href="https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cyber_Pharmacy_ISO_IEC_27001_Control_Mapping_%26_SoA.pdf">Cybersecurity ISO/IEC 27001:2022 Control Mapping and Statement of Applicability</a> |
 
 ## Frameworks & Standards
  
@@ -31,7 +32,7 @@ I'm channeling hands-on experience of how critical and exposed regulated informa
  
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ICT50220%20Diploma%20(Cybersecurity%20%26%20Business%20Analysis)%20--%20In%20Progress-0078D4?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ICT50220%20Diploma%20(Cybersecurity%20%26%20Business%20Analysis)-0078D4?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Registered%20Pharmacist%20(AHPRA)-00843D?&style=for-the-badge&logoColor=white" />
 </div>
 
@@ -40,6 +41,8 @@ A combined GRC portfolio applied to fictionalised healthcare environments, conta
  
 - **Cybersecurity Risk Assessment** — conducted using **NIST SP 800-30 Rev 1** for a fictionalised community pharmacy. Produces a risk register with threats, vulnerabilities, likelihood and impact ratings, and controls identified in the Cybersecurity Maturity Assessment. 
 - **Cybersecurity Maturity Assessment** — conducted using **NIST CSF 2.0** for a fictionalised healthcare organisation. Includes current and target organisational profiles, gap analysis, and a prioritised improvement roadmap presented for a non-technical executive audience.
-**Frameworks used:** NIST SP 800-30 Rev 1 · NIST CSF 2.0
+- **ISO/IEC 27001:2022 Control Mapping & Statement of Applicability** — conducted using **ISO/IEC 27001:2022** for a fictionalised community pharmacy. Maps prioritised risks to principal Annex A controls and records applicability, implementation status, and justification in a Statement of Applicability (SoA), with each control cross-referenced to NIST CSF 2.0 for traceability.
+
+**Frameworks used:** NIST SP 800-30 Rev 1 · NIST CSF 2.0 · ISO/IEC 27001:2022
 
 > *All projects use fictionalised organisations. Methodology, scope, and written artefacts are original work.*  
